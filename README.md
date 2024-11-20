@@ -5,7 +5,7 @@
 ## Team: Tech Turtles
 
 ### Team Members:
-- [Ziyad El-Fayoumy](https://github.com/Zoz-HF)
+- [Ziyad El-Fayoumy](https://github.com/Ziyad-HF)
 - [Amagd Atef](https://github.com/amg-eng)
 - [Mahmoud Mohamed](https://github.com/Mahmoudm007)
 - [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)
