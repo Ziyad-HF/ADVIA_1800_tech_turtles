@@ -95,7 +95,7 @@ This project involves the development of a prototype for the ADVIA 1800, a cruci
       >
     </td>
     <td align="center">
-      <a href="https://github.com/zoz-hf" target="_black">
+      <a href="https://github.com/ziyad-hf" target="_black">
         <img
           src="https://avatars.githubusercontent.com/u/99608059?v=4"
           width="150px;"
